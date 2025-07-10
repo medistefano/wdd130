@@ -4,7 +4,7 @@
     border: 1px solid rgba(0, 0, 0, .1);
     padding: 15px;
     background-color: #247;
-    color: #fff;	
+    color: #fff;
 }
 
 .callout img {
@@ -15,12 +15,12 @@
     background-color: #bbb;
     width: 100px;
     height: auto;
-	
+
 }
 
 blockquote {
     margin: 0;
-	
+
 }
 
 cite {
@@ -29,5 +29,5 @@ cite {
     padding-top: 3px;
     text-align: right;
     font-size: smaller;
-	
+
 }
