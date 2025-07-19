@@ -51,17 +51,21 @@ aside {
 }
 
 aside h2 {
-  position: absolute;
-  top: 10px;    /* Podés ajustar esto */
-  left: 10px;   /* También lo podés cambiar según dónde querés el texto */
-  right: 10px;
-  font-size: 0.9em;
-  color: white; /* Para que se vea sobre la imagen */
-  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
-  padding: 5px 8px;
-  border-radius: 5px;
-  line-height: 1.2;
-  font-weight: bold;
+    position: absolute;
+    top: 10px;
+    /* Podés ajustar esto */
+    left: 10px;
+    /* También lo podés cambiar según dónde querés el texto */
+    right: 10px;
+    font-size: 0.9em;
+    color: white;
+    /* Para que se vea sobre la imagen */
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Fondo semitransparente */
+    padding: 5px 8px;
+    border-radius: 5px;
+    line-height: 1.2;
+    font-weight: bold;
 }
 
 
@@ -78,10 +82,11 @@ footer {
 
 
 
-.box {/*Class Selectors*/
+.box {
+    /*Class Selectors*/
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 10%);
     padding: 1rem;
     background-color: #ddd;
-    color: 000;
+    color: black;
 }
